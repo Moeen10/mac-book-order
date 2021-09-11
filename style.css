@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+}
+
+.mac-laptop-img {
+    margin: 60px;
+    width: 80em;
+}
+
+.configuer {
+    margin-bottom: 20px;
+}
+
+.promo-code>p {
+    margin-bottom: -3px;
+}
+
+hr.style1 {
+    border-top: 1px solid #8c8b8b;
+}
+
+.bonus {
+    text-align: center;
+}
+
+.gap {
+    display: flex;
+    padding: 1px;
+}
+
+.width-60 {
+    width: 60%;
+}
+
+.brd {
+    border-top-style: none;
+}
